@@ -49,11 +49,9 @@ Your Nutritionist Doctor is a cutting-edge generative AI model designed to analy
 
 **Continuous Improvement:** We're committed to enhancing our AI model to provide you with the most relevant and up-to-date nutritional information.
 
-## Deployment
+## Deployment💥
 
-To deploy this project run
+I deploy this app on Streamlit
 
-```bash
-  npm run deploy
-```
+https://your-nutritionist-doctor.streamlit.app/
 
